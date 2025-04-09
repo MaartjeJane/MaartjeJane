@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me: maartje.oconnor@achmea.nl
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Husband is a fire fighter 
+- ⚡ Fun fact: husband is a fire fighter 
 
 <!---
 MaartjeJane/MaartjeJane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
