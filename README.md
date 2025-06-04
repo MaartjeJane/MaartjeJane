@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MaartjeJane
 - 👀 I’m interested in traveling, dancing, baking and coding
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me: maartje.oconnor@achmea.nl
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: husband is a fire fighter 
